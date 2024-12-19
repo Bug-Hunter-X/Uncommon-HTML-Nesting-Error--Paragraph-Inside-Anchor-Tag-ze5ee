@@ -1,0 +1,1 @@
+This repository demonstrates a subtle yet problematic HTML error involving incorrect element nesting.  Specifically, a paragraph element (&lt;p&gt;) is placed within an anchor element (&lt;a&gt;), which is invalid HTML. The bug.html file contains the erroneous code, while bugSolution.html provides the corrected version.
